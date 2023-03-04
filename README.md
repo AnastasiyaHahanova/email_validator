@@ -4,6 +4,6 @@
 
 Валидация по регулярным выражениям и проверке DNS mx записи, без полноценной отправки письма-подтверждения.
 
-Пример запроса
+Пример запроса:
 
 http://mysite.local/?firrst_email=invalid_.._email@mailerw.ru&second_mail=anastasiya.hahanova@mail.ru
